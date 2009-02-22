@@ -2,6 +2,7 @@
 Donate link: http://planetozh.com/exit/donate
 Tags: ozh, login, auth, admin, nologin
 Requires at least: 2.0
+Tested up to: 9.9
 Stable tag: trunk
 
 Skip the login form and always auth as admin. FOR TEST SITES.
