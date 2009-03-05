@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: .No Login !!
-Plugin URI: http://planetozh.com/
+Plugin URI: http://planetozh.com/blog/my-projects/wordpress-plugin-no-login/
 Description: Never authenticate, you're always the admin. Obviously for test sites!
 Author: Ozh
-Version: 1.00
+Version: 1.0.1
 Author URI: http://planetozh.com/
 */
 
