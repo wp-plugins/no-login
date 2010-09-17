@@ -1,6 +1,7 @@
 === No Login ===
 Donate link: http://planetozh.com/exit/donate
 Tags: ozh, login, auth, admin, nologin
+Contributors: ozh
 Requires at least: 2.0
 Tested up to: 9.9
 Stable tag: trunk
@@ -10,6 +11,8 @@ Skip the login form and always auth as admin. FOR TEST SITES.
 == Description ==
 
 Skip the login form: every visitor automatically auths as an admin. FOR 'LOCALHOST' TEST SITES only, obviously, like when designing a plugin or a theme and testing it across various browsers.
+
+For a hassle free integration, drop the plugin file into `wp-content/mu-plugins` (create the directory if needed) and it will be automatically activated.
 
 == Screenshots ==
 
