@@ -14,6 +14,8 @@ Skip the login form: every visitor automatically auths as an admin. FOR 'LOCALHO
 
 For a hassle free integration, drop the plugin file into `wp-content/mu-plugins` (create the directory if needed) and it will be automatically activated.
 
+For live blogs, see [Always Remember Me](http://wordpress.org/extend/plugins/always-remember-me/)
+
 == Screenshots ==
 
 1. Everybody is the admin.
