@@ -2,7 +2,7 @@
 Donate link: http://planetozh.com/exit/donate
 Tags: ozh, login, auth, admin, nologin
 Contributors: ozh
-Requires at least: 2.0
+Requires at least: 3.3
 Tested up to: 9.9
 Stable tag: trunk
 
